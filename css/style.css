@@ -89,3 +89,21 @@ body {
     cursor: pointer;
 
 }
+
+.form-section {
+    display: inline-block;
+    margin-top: 12px;
+    background-color: #fff;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    margin-bottom: 12px;
+    padding: 24px;
+    padding-top: 22px;
+    position: absolute;
+    right: 130px;
+    margin: 120px 0;
+    width: 450px;
+
+    
+    
+}
