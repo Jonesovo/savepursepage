@@ -9,12 +9,15 @@ p {
 
 #form-header {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-indent: 50px;
+    padding-left: 50px;
     
 }
 
 #wallet-id {
     text-align: justify;
+    padding: 2px;
+    padding-left: 50px;
+    padding-bottom:50px;
 
 
 }
@@ -32,6 +35,23 @@ p {
     left: 100px;
     margin: 120px 0;
 }
+/*
+.btn {
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: #423b6d;
+    display: flex;
+    font-weight: bold;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 16px;
+    margin: 30px 30px;
+    cursor: pointer;
+
+}
+*/
 
 .btn1 {
     align-items: center;
@@ -133,6 +153,7 @@ p {
     cursor: pointer;
     width: 150px;
     font: 100px;
+    
 
 }
 
@@ -142,10 +163,10 @@ p {
     border: 1px solid black;
     border-radius: 6px;
     text-indent: 15px;
-    box-sizing: border-box;
 }
 
 .responses {
     font-weight: bold;
+    padding-left: 50px;
 
 }
