@@ -18,6 +18,9 @@ p {
     padding: 2px;
     padding-left: 50px;
     padding-bottom:50px;
+    position: absolute;
+    top: 55px;
+    font-size: 14px;
 
 
 }
@@ -61,7 +64,7 @@ p {
     color: #423b6d;
     font-weight: bold;
     padding: 10px 30px;
-    position: fixed;
+    position: absolute;
     right: 750px;
     text-align: center;
     text-decoration: none;
@@ -79,7 +82,7 @@ p {
     color: #423b6d;
     font-weight: bold;
     padding: 10px 30px;
-    position: fixed;
+    position: absolute;
     right: 600px;
     text-align: center;
     text-decoration: none;
@@ -97,7 +100,7 @@ p {
     color: #423b6d;
     font-weight: bold;
     padding: 10px 30px;
-    position: fixed;
+    position: absolute;
     right: 400px;
     text-align: center;
     text-decoration: none;
