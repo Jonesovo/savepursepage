@@ -2,6 +2,22 @@ body {
     background-color: #6aebff;
 }
 
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #423b6d;
+}
+
+#form-header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-indent: 50px;
+    
+}
+
+#wallet-id {
+    text-align: justify;
+
+
+}
 
 .logo-img {
     width: 200px;
@@ -105,6 +121,31 @@ body {
     width: 450px;
     height: 350px;
 
-    
-    
+}
+
+.form-button{
+    background-color: #423b6d;
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 30px;
+    cursor: pointer;
+    width: 150px;
+    font: 100px;
+
+}
+
+.form-input {
+    width: 900px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 6px;
+    text-indent: 15px;
+    box-sizing: border-box;
+}
+
+.responses {
+    font-weight: bold;
+
 }
